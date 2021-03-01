@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\bin\Debug\tsetOfFramework.exe.config
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\bin\Debug\tsetOfFramework.exe
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\bin\Debug\tsetOfFramework.pdb
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.Form1.resources
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.exe
+C:\Users\Lenovo\Desktop\c＃\e1\tsetOfFramework\tsetOfFramework\obj\Debug\tsetOfFramework.pdb
