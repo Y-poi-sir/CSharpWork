@@ -1,0 +1,7 @@
+C:\Users\10523\Desktop\C＃\e2\array_math\bin\Debug\array_math.exe.config
+C:\Users\10523\Desktop\C＃\e2\array_math\bin\Debug\array_math.exe
+C:\Users\10523\Desktop\C＃\e2\array_math\bin\Debug\array_math.pdb
+C:\Users\10523\Desktop\C＃\e2\array_math\obj\Debug\array_math.csprojAssemblyReference.cache
+C:\Users\10523\Desktop\C＃\e2\array_math\obj\Debug\array_math.csproj.CoreCompileInputs.cache
+C:\Users\10523\Desktop\C＃\e2\array_math\obj\Debug\array_math.exe
+C:\Users\10523\Desktop\C＃\e2\array_math\obj\Debug\array_math.pdb

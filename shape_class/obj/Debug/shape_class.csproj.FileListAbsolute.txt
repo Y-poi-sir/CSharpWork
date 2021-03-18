@@ -1,0 +1,7 @@
+C:\Users\10523\Desktop\C＃\e2\shape_class\bin\Debug\shape_class.exe.config
+C:\Users\10523\Desktop\C＃\e2\shape_class\bin\Debug\shape_class.exe
+C:\Users\10523\Desktop\C＃\e2\shape_class\bin\Debug\shape_class.pdb
+C:\Users\10523\Desktop\C＃\e2\shape_class\obj\Debug\shape_class.csprojAssemblyReference.cache
+C:\Users\10523\Desktop\C＃\e2\shape_class\obj\Debug\shape_class.csproj.CoreCompileInputs.cache
+C:\Users\10523\Desktop\C＃\e2\shape_class\obj\Debug\shape_class.exe
+C:\Users\10523\Desktop\C＃\e2\shape_class\obj\Debug\shape_class.pdb

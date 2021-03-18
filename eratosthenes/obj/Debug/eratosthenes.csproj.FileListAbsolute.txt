@@ -1,0 +1,7 @@
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\bin\Debug\eratosthenes.exe.config
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\bin\Debug\eratosthenes.exe
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\bin\Debug\eratosthenes.pdb
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\obj\Debug\eratosthenes.csprojAssemblyReference.cache
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\obj\Debug\eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\obj\Debug\eratosthenes.exe
+C:\Users\10523\Desktop\C＃\e2\eratosthenes\obj\Debug\eratosthenes.pdb

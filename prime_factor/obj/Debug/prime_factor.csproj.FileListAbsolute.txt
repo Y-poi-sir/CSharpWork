@@ -1,0 +1,7 @@
+C:\Users\10523\Desktop\C＃\e2\prime_factor\bin\Debug\prime_factor.exe.config
+C:\Users\10523\Desktop\C＃\e2\prime_factor\bin\Debug\prime_factor.exe
+C:\Users\10523\Desktop\C＃\e2\prime_factor\bin\Debug\prime_factor.pdb
+C:\Users\10523\Desktop\C＃\e2\prime_factor\obj\Debug\prime_factor.csprojAssemblyReference.cache
+C:\Users\10523\Desktop\C＃\e2\prime_factor\obj\Debug\prime_factor.csproj.CoreCompileInputs.cache
+C:\Users\10523\Desktop\C＃\e2\prime_factor\obj\Debug\prime_factor.exe
+C:\Users\10523\Desktop\C＃\e2\prime_factor\obj\Debug\prime_factor.pdb
