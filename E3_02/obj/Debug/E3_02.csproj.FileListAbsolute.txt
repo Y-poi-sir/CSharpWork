@@ -1,0 +1,7 @@
+C:\Users\10523\Desktop\C＃\e3\E3_02\bin\Debug\E3_02.exe.config
+C:\Users\10523\Desktop\C＃\e3\E3_02\bin\Debug\E3_02.exe
+C:\Users\10523\Desktop\C＃\e3\E3_02\bin\Debug\E3_02.pdb
+C:\Users\10523\Desktop\C＃\e3\E3_02\obj\Debug\E3_02.csprojAssemblyReference.cache
+C:\Users\10523\Desktop\C＃\e3\E3_02\obj\Debug\E3_02.csproj.CoreCompileInputs.cache
+C:\Users\10523\Desktop\C＃\e3\E3_02\obj\Debug\E3_02.exe
+C:\Users\10523\Desktop\C＃\e3\E3_02\obj\Debug\E3_02.pdb
