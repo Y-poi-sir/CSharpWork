@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.exe
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.deps.json
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.dll
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\bin\Debug\netcoreapp3.1\E4.pdb
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.dll
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.pdb
+C:\Users\Lenovo\Desktop\c＃\E4\E4\E4\obj\Debug\netcoreapp3.1\E4.genruntimeconfig.cache
