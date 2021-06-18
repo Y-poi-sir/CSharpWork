@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\bin\Debug\ConsoleApp-Cal.exe.config
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\bin\Debug\ConsoleApp-Cal.exe
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\bin\Debug\ConsoleApp-Cal.pdb
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\obj\Debug\ConsoleApp-Cal.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\obj\Debug\ConsoleApp-Cal.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\obj\Debug\ConsoleApp-Cal.exe
+C:\Users\张博凯\source\repos\ConsoleApp-Cal\ConsoleApp-Cal\obj\Debug\ConsoleApp-Cal.pdb
