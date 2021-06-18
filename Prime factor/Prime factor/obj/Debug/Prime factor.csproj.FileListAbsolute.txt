@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\bin\Debug\Prime factor.exe.config
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\bin\Debug\Prime factor.exe
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\bin\Debug\Prime factor.pdb
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\obj\Debug\Prime factor.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\obj\Debug\Prime factor.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\obj\Debug\Prime factor.exe
+C:\Users\张博凯\source\repos\Prime factor\Prime factor\obj\Debug\Prime factor.pdb
