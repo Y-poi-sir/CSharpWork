@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\Generic list\Generic list\bin\Debug\Generic list.exe.config
+C:\Users\张博凯\source\repos\Generic list\Generic list\bin\Debug\Generic list.exe
+C:\Users\张博凯\source\repos\Generic list\Generic list\bin\Debug\Generic list.pdb
+C:\Users\张博凯\source\repos\Generic list\Generic list\obj\Debug\Generic list.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\Generic list\Generic list\obj\Debug\Generic list.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\Generic list\Generic list\obj\Debug\Generic list.exe
+C:\Users\张博凯\source\repos\Generic list\Generic list\obj\Debug\Generic list.pdb

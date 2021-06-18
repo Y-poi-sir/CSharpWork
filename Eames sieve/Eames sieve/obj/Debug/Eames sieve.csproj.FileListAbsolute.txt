@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\bin\Debug\Eames sieve.exe.config
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\bin\Debug\Eames sieve.exe
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\bin\Debug\Eames sieve.pdb
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\obj\Debug\Eames sieve.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\obj\Debug\Eames sieve.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\obj\Debug\Eames sieve.exe
+C:\Users\张博凯\source\repos\Eames sieve\Eames sieve\obj\Debug\Eames sieve.pdb
