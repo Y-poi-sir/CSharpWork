@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\Integer array\Integer array\bin\Debug\Integer array.exe.config
+C:\Users\张博凯\source\repos\Integer array\Integer array\bin\Debug\Integer array.exe
+C:\Users\张博凯\source\repos\Integer array\Integer array\bin\Debug\Integer array.pdb
+C:\Users\张博凯\source\repos\Integer array\Integer array\obj\Debug\Integer array.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\Integer array\Integer array\obj\Debug\Integer array.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\Integer array\Integer array\obj\Debug\Integer array.exe
+C:\Users\张博凯\source\repos\Integer array\Integer array\obj\Debug\Integer array.pdb
